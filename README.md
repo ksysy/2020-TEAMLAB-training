@@ -27,7 +27,7 @@
              독립적 내용  
   
 4. 블럭 레벨 엘리먼트와 인라인 엘리먼트의 차이는 무엇일까요?  
-block level element: 화면 전체 사용(width값 100%)하는 태그  
+`block level element`: 화면 전체 사용(width값 100%)하는 태그  
                      하나의 태그 완료되면 줄바꿈 일어남  
-inline element: 화면 일부 차지하는 태그  
+`inline element`: 화면 일부 차지하는 태그  
                 줄 바꾸지 않고 한 행에 정렬  
