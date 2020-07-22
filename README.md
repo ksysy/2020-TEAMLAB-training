@@ -1,5 +1,4 @@
-# 2020-TEAMLAB-training
-##cheklist1
+##checklist
 
 1. HTML 4.x 이후의 HTML 표준의 변천사는 어떻게 되나요?
 HTML 4.01 이후: 외부 스타일 시트 도입 /
