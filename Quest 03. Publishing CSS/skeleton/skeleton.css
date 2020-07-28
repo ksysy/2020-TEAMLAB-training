@@ -16,8 +16,6 @@
             width: 290px;
         }
         #search{
-            /* border: 1px solid gray;
-            border-radius: 10px; */
             outline-style: none;
             width: 300px;
         }
@@ -33,7 +31,6 @@
             list-style: none;
             display: flex;
             flex-direction: row;
-            /* width: 25%; */
             position: relative;
             white-space: nowrap;
         }
@@ -124,7 +121,6 @@
             border-top: 1px solid gray;
             border-top-left-radius: 5px;
             border-top-right-radius: 5px;
-            /* border-top: 1px solid gray; */
         }
         .main_center1 ul:nth-child(2){
             background-color: rgb(214, 241, 253);
