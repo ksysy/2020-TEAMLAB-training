@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(66, 66, 66);
+    width: 100%;
+    text-align: center;
+}
+
+#logo{
+    width: 130px;
+}
+.cloth_item{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+img{
+    width: 70px;
+}
+.img, .logo{
+    padding: 0;
+    background-color: rgb(66, 66, 66);
+    cursor: pointer;
+}
+button{
+    margin: 0 20px 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.buttons{
+    padding: 15px;
+}
+#blue{
+    background-color: rgb(42, 90, 180);
+}
+#yellow{
+    background-color: rgb(241, 211, 35);
+}
+#pink{
+    background-color: rgb(255, 143, 158);
+}
+
+.item_list{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    border: 1px solid white;
+    margin: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.item_info{
+    padding: 20px;
+}
