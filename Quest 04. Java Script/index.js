@@ -1,7 +1,7 @@
 'use strict';
 
 let color=["blue", "yellow", "pink"];
-let type=["t","p","s"]
+let type=["t","p","s"];
 let gender=["male", "female"];
 let size=["small size", "large size"];
 
